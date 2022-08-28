@@ -50,3 +50,12 @@ and scripts into the app directory. If you do this, you can't go back!
 * Precisamos CRIAR UM ARQUIVO de componente;
 * E IMPORTÁ-LO onde precisamos utilizar;
 * Normalmente ficam em uma pasta chamada COMPONENTS.
+
+>>> PROPS (PROPertieS)
+
+* As PROPS são valores passados para componentes;
+* Podemos deixá-los DINÂMICOS;
+* Ou seja, MUDANDO A EXECUÇÃO por causa do valor da PROP;
+* O valor é PASSADO COMO UM ATRIBUTO na chamada do componente;
+* E precisa ser RESGATADO DENTRO DE UMA PROPRIEDADE/ARGUMENTO chamada PROPs na função de definição do componente;
+* As PROPs são somente leitura.
